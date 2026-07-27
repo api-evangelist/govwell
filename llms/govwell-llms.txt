@@ -1,0 +1,48 @@
+# GovWell Help Center
+
+> Advice and answers from the GovWell team
+
+## English
+
+### GovWell Overview
+
+- [What is GovWell?](https://help.govwell.com/en/articles/10742307-what-is-govwell.md)
+- [Which services does GovWell offer?](https://help.govwell.com/en/articles/10743862-which-services-does-govwell-offer.md)
+- [What is a 'Module'?](https://help.govwell.com/en/articles/10751877-what-is-a-module.md): Understanding GovWell's core offering
+- [How to contact GovWell Customer Support](https://help.govwell.com/en/articles/10742320-how-to-contact-govwell-customer-support.md): Have a question? Let us know!
+- [Finding your jurisdiction's GovWell Portal and key contacts](https://help.govwell.com/en/articles/11823436-finding-your-jurisdiction-s-govwell-portal-and-key-contacts.md): Stay in touch with your local representatives!
+
+### GovWell for Applicants and Contractors
+
+- [GovWell Community Assistant](https://help.govwell.com/en/articles/14090681-govwell-community-assistant.md): Learn more about our AI assistant and see how it can help you save time, reduce back-and-forth, and better manage your applications.
+
+### Troubleshooting Technical Issues
+
+- [What should I do if the site is not loading properly?](https://help.govwell.com/en/articles/10742343-what-should-i-do-if-the-site-is-not-loading-properly.md)
+- [GovWell on Mobile Devices](https://help.govwell.com/en/articles/11012780-govwell-on-mobile-devices.md): Learn some of the key things to be aware of while using GovWell on your phone or tablet
+- [Plan Files and Image Loading Issues](https://help.govwell.com/en/articles/12579905-plan-files-and-image-loading-issues.md): Suggested workarounds to fix loading issues in Plan Reviews
+- [I'm not receiving emails from GovWell!](https://help.govwell.com/en/articles/12813986-i-m-not-receiving-emails-from-govwell.md): Troubleshooting missing emails from GovWell, such as log in confirmation links
+- [I'm trying to upload a PDF file but the website is returning an error!](https://help.govwell.com/en/articles/15070923-i-m-trying-to-upload-a-pdf-file-but-the-website-is-returning-an-error.md): Troubleshoot file upload issues and ensure your files are GovWell-ready
+
+## Español
+
+### ¿Nuevo en GovWell? ¡Empieza aquí!
+
+- [¿Necesitas ayuda en español? ¡Consulta esta página de ayuda primero!](https://help.govwell.com/es/articles/14600349-necesitas-ayuda-en-espanol-consulta-esta-pagina-de-ayuda-primero.md)
+
+### Artículos de ayuda general e información
+
+- [Cómo contactar al Soporte al Cliente de GovWell](https://help.govwell.com/es/articles/10742320-como-contactar-al-soporte-al-cliente-de-govwell.md): ¿Tienes una pregunta? ¡Háznoslo saber!
+- [Encontrar el Portal de GovWell de tu municipalidad y contactos clave](https://help.govwell.com/es/articles/11823436-encontrar-el-portal-de-govwell-de-tu-municipalidad-y-contactos-clave.md): ¡Mantente en contacto con tus representantes locales!
+
+### GovWell para Solicitantes y Contratistas
+
+- [Asistente de la Comunidad de GovWell \(Community Assistant\)](https://help.govwell.com/es/articles/14090681-asistente-de-la-comunidad-de-govwell-community-assistant.md): Aprende más sobre nuestro asistente de IA y descubre cómo puede ayudarte a ahorrar tiempo, reducir idas y vueltas, y administrar mejor tus solicitudes.
+
+### Solución de Problemas Técnicos
+
+- [¿Qué debo hacer si el sitio no se carga correctamente?](https://help.govwell.com/es/articles/10742343-que-debo-hacer-si-el-sitio-no-se-carga-correctamente.md)
+- [GovWell en Dispositivos Móviles](https://help.govwell.com/es/articles/11012780-govwell-en-dispositivos-moviles.md): Aprende algunas de las cosas clave a tener en cuenta al usar GovWell en tu teléfono o tableta
+- [Problemas de Carga de Archivos de Planos e Imágenes](https://help.govwell.com/es/articles/12579905-problemas-de-carga-de-archivos-de-planos-e-imagenes.md): Soluciones sugeridas para solucionar problemas de carga en Revisiones de Planos
+- [¡No estoy recibiendo correos electrónicos de GovWell!](https://help.govwell.com/es/articles/12813986-no-estoy-recibiendo-correos-electronicos-de-govwell.md): Solución de problemas con correos electrónicos faltantes de GovWell, como enlaces de confirmación de inicio de sesión
+- [¡Estoy intentando cargar un archivo PDF pero el sitio web está devolviendo un error!](https://help.govwell.com/es/articles/15070923-estoy-intentando-cargar-un-archivo-pdf-pero-el-sitio-web-esta-devolviendo-un-error.md): Soluciona problemas de carga de archivos y asegúrate de que tus archivos estén listos para GovWell

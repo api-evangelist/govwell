@@ -1,0 +1,22 @@
+generated: '2026-07-19'
+method: searched
+source: live probes of GovWell hosts
+note: >-
+  No .well-known discovery documents were served by any GovWell host. This is an
+  honest negative result (GovWell publishes no public API/OAuth surface); no
+  WellKnown/SecurityTxt pointer is wired because no catalog exists.
+hosts:
+  - host: https://govwell.com
+    documents:
+      - {path: /.well-known/security.txt, status: 404}
+      - {path: /.well-known/openid-configuration, status: 404}
+      - {path: /.well-known/oauth-authorization-server, status: 404}
+      - {path: /.well-known/api-catalog, status: 404}
+      - {path: /.well-known/ai-plugin.json, status: 404}
+  - host: https://app.govwell.com
+    documents:
+      - {path: /.well-known/security.txt, status: 403}
+      - {path: /.well-known/openid-configuration, status: 403}
+      - {path: /.well-known/oauth-authorization-server, status: 403}
+      - {path: /.well-known/api-catalog, status: 403}
+      - {path: /.well-known/ai-plugin.json, status: 403}

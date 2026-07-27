@@ -1,9 +1,32 @@
 aid: govwell
 name: GovWell
-description: 'GovWell is a company surfaced as a portfolio company of insight-partners and added to the
-  API Evangelist network as a stub for enrichment. Sector: government. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: >-
+  GovWell is a cloud-based AI operating system for modern local and county
+  government, used by municipal and county agencies across 40+ U.S. states to
+  digitize and automate civic services. The platform replaces paper and legacy
+  systems with online workflows for permitting, licensing, planning and zoning,
+  and code enforcement, and layers on AI capabilities including AutoCheck, which
+  automatically reviews applications for errors and missing documentation before
+  submission, and a 24/7 AI Community Assistant that answers resident questions.
+  GovWell serves both government staff, who manage plan reviews, inspections,
+  applications, payments, and renewals, and applicants and contractors, who
+  submit and track requests through a self-service jurisdiction portal. The
+  company is backed by Insight Partners and is an Esri partner. GovWell does not
+  publish a public developer API, SDKs, or a .well-known discovery surface; this
+  profile captures its identity and public trust/security posture.
 url: https://raw.githubusercontent.com/api-evangelist/govwell/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/697732d0a9e7ed6e5a43811f/6990ab09889d6924cb697e7f_Open%20Graph%20Image.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,10 +35,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Government
+- GovTech
+- Local Government
+- Permitting
+- Licensing
+- Code Enforcement
+- Planning and Zoning
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +52,28 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/govwell-domain-security.yml
 - type: Website
   url: https://govwell.com/
+- type: Documentation
+  url: https://help.govwell.com/en/
+- type: Support
+  url: https://help.govwell.com/en/
+- type: Login
+  url: https://app.govwell.com/login
+- type: Blog
+  url: https://govwell.com/resources
+- type: TermsOfService
+  url: https://govwell.com/legal/terms
+- type: PrivacyPolicy
+  url: https://govwell.com/legal/privacy
+- type: TrustCenter
+  url: security/govwell-trust-center.yml
+- type: LLMsTxt
+  url: llms/govwell-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

@@ -1,0 +1,17 @@
+generated: '2026-07-19'
+method: searched
+probe: true
+url: https://trust.govwell.com/
+platform: Vanta
+slugid: j05r32zvo6x1f849u9i0v
+certifications: []
+note: >-
+  Vanta-hosted Trust Center verified live (HTTP 200, page title "GovWell Trust
+  Center"). The certification/framework list is rendered client-side by the Vanta
+  single-page app and was not machine-verifiable in this pass, so no specific
+  certifications (SOC 2, ISO 27001, etc.) are asserted here and no Compliance
+  pointer is emitted. Re-run with a JS-rendering fetch to enumerate named certs.
+evidence:
+  - source: https://trust.govwell.com/
+    kind: trust-center
+    keywords: [trust center, vanta]
