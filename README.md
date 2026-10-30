@@ -64,6 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-GovWell is a company surfaced as a portfolio company of insight-partners and added to the API Evangelist network as a stub for enrichment. Sector: government. This profile is a lead awaiting the enrichment pipeline.
+GovWell is a cloud-based AI operating system for modern local and county government, used by municipal and county agencies across 40+ U.S. states to digitize and automate civic services. The platform replaces paper and legacy systems with online workflows for permitting, licensing, planning and zoning, and code enforcement, and layers on AI capabilities including AutoCheck, which automatically reviews applications for errors and missing documentation before submission, and a 24/7 AI Community Assistant that answers resident questions. GovWell serves both government staff, who manage plan reviews, inspections, applications, payments, and renewals, and applicants and contractors, who submit and track requests through a self-service jurisdiction portal. The company is backed by Insight Partners and is an Esri partner. GovWell does not publish a public developer API, SDKs, or a .well-known discovery surface; this profile captures its identity and public trust/security posture.
 
-Backed by: insight-partners — https://govwell.com/
+**Areas:** Company · Government · GovTech · Local Government · Permitting · Licensing · Code Enforcement · Planning and Zoning
+
+## GovWell on APIs.io
+
+Everything profiled for GovWell is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/govwell/](https://apis.io/providers/govwell/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Govwell Domain Security](https://apis.io/security/govwell/govwell-domain-security/)
+- [Govwell Trust Center](https://apis.io/security/govwell/govwell-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://govwell.com/)
+- [Documentation](https://help.govwell.com/en/)
+- [Support](https://help.govwell.com/en/)
+- [Blog](https://govwell.com/resources)
+- [Terms of service](https://govwell.com/legal/terms)
+- [Privacy policy](https://govwell.com/legal/privacy)
+
+## API Evangelist rating
+
+**Kin Score 16.8** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 35.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 18.6** — Government & Public Sector
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/govwell/](https://apis.io/providers/govwell/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for GovWell: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/govwell/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
